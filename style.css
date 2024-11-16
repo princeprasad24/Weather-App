@@ -48,3 +48,9 @@ h4{
     transform: translateX(1);
     background-color: black;
 }
+
+
+small{
+  position: absolute;
+  top: 90vh;
+}
